@@ -4,7 +4,7 @@ A Move smart contract for managing a vault with coin operations, including depos
 
 ## Overview
 
-The MiniVault contract provides functionalities to manage a vault, including:
+The APTOS_Vault contract provides functionalities to manage a vault, including:
 •⁠  ⁠Initializing a vault for a user.
 •⁠  ⁠Depositing and withdrawing coins.
 •⁠  ⁠Pausing and unpausing the vault.
@@ -25,5 +25,5 @@ To set up and test the MiniVault contract, follow these steps:
 1.⁠ ⁠*Clone the Repository*
 
    ```bash
-   git clone https://github.com/yourusername/minivault.git
-   cd minivault
+   git clone https://github.com/yourusername/APTOS_Vault.git
+   cd APTOS_Vault
